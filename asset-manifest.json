@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-cart-basket/static/css/main.f6c8bac6.css",
+    "main.js": "/react-cart-basket/static/js/main.43a36d66.js",
+    "index.html": "/react-cart-basket/index.html",
+    "main.f6c8bac6.css.map": "/react-cart-basket/static/css/main.f6c8bac6.css.map",
+    "main.43a36d66.js.map": "/react-cart-basket/static/js/main.43a36d66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6c8bac6.css",
+    "static/js/main.43a36d66.js"
+  ]
+}
